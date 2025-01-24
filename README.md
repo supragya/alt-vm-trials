@@ -64,3 +64,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+```
+cargo install --force cargo-stylus
+```
