@@ -1,0 +1,9 @@
+[submodule "reth"]
+	path = reth
+	url = git@github.com:supragya/reth.git
+[submodule "revm"]
+	path = revm
+	url = git@github.com:supragya/revm.git
+[submodule "revm-inspectors"]
+	path = revm-inspectors
+	url = git@github.com:supragya/revm-inspectors.git
